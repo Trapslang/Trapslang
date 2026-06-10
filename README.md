@@ -77,13 +77,17 @@ A 2D Metroidvania inspired by Hollow Knight and classic platformers.
 ---
 
 ## Connect With Me
-
 <p align="center">
   <a href="https://github.com/Trapslang">
     <img src="https://img.shields.io/badge/GitHub-Trapslang-00AA44?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
 
+<p align="center">
+  <a href="https://x.com/robbe_vanhie">
+    <img src="https://img.shields.io/badge/X-@robbe__vanhie-000000?style=for-the-badge&logo=x&logoColor=white">
+  </a>
+</p>
 ---
 
 <div align="center">
