@@ -30,7 +30,7 @@ Currently, I'm working on my own Metroidvania project built in Godot. My goal is
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cs,godot,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,cs,godot,vscode" />
 </p>
 
 ---
