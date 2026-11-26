@@ -11,7 +11,7 @@ I'm interested in the places where software, creativity and technology meet.
 - ⚡ Exploring electronics, microcontrollers and hardware.
 - 🐍 Creating things under the Trapslang name.
 - 🌱 Constantly learning, improving and trying new things.
-02 / TECHNOLOGIES
+**TECHNOLOGIES**
 A collection of tools and technologies I use, explore or learn.
 Programming
 <p>
@@ -20,11 +20,13 @@ Programming
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-</p>Game development
+</p>
+**Game development**
 <p>
   <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" alt="Godot" />
   <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black" alt="Unity" />
-</p>Applications & hardware
+</p>
+**Applications & hardware**
 <p>
   <img src="https://img.shields.io/badge/.NET%20MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET MAUI" />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
@@ -34,7 +36,8 @@ Programming
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio" />
-</p>03 / SELECTED PROJECTS
+</p>
+**SELECTED PROJECTS**
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -64,7 +67,8 @@ Programming
       <sub>Always building</sub>
     </td>
   </tr>
-</table>04 / WHAT I'M LEARNING
+</table>
+**WHAT I'M LEARNING**
 - C# & .NET — writing cleaner code and building applications.
 - Godot & Unity — game systems, mechanics and workflows.
 - Web development — building for the browser.
