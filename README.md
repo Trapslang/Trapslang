@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- Replace YOUR_USERNAME in the links and stats below. -->
+<!-- Replace Trapslang in the links and stats below. -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:101820,45:173B35,100:7CFC00&height=190&section=header&text=Robbe&fontSize=62&fontColor=FFFFFF&fontAlignY=38&desc=Developer%20%7C%20Game%20Developer%20%7C%20Tech%20Enthusiast&descSize=16&descAlignY=60" width="100%" alt="Robbe — developer, game developer and tech enthusiast" />
 
@@ -116,12 +116,12 @@ A collection of tools and technologies I use, explore or learn.
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=7CFC00&icon_color=A78BFA&text_color=C9D1D9&ring_color=7CFC00" alt="GitHub statistics" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=7CFC00&text_color=C9D1D9" alt="Most used languages" />
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=Trapslang&show_icons=true&hide_border=true&bg_color=0D1117&title_color=7CFC00&icon_color=A78BFA&text_color=C9D1D9&ring_color=7CFC00" alt="GitHub statistics" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trapslang&layout=compact&hide_border=true&bg_color=0D1117&title_color=7CFC00&text_color=C9D1D9" alt="Most used languages" />
 
 <br />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&background=0D1117&ring=7CFC00&fire=A78BFA&currStreakLabel=7CFC00&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Trapslang&hide_border=true&background=0D1117&ring=7CFC00&fire=A78BFA&currStreakLabel=7CFC00&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak" />
 
 </div>
 
@@ -131,7 +131,7 @@ A collection of tools and technologies I use, explore or learn.
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/Trapslang">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 <!-- Add your own social profile URLs, or remove badges you don't use. -->
