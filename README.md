@@ -109,9 +109,9 @@ C#, .NET MAUI, Python and web development — from school projects to independen
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=7CFC00&icon_color=A78BFA&text_color=C9D1D9&ring_color=7CFC00" alt="GitHub statistics" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Trapslang&show_icons=true&hide_border=true&bg_color=0D1117&title_color=7CFC00&icon_color=A78BFA&text_color=C9D1D9&ring_color=7CFC00" alt="GitHub statistics" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=7CFC00&text_color=C9D1D9" alt="Most used languages" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trapslang&layout=compact&hide_border=true&bg_color=0D1117&title_color=7CFC00&text_color=C9D1D9" alt="Most used languages" />
 
 </div>
 
@@ -121,7 +121,7 @@ C#, .NET MAUI, Python and web development — from school projects to independen
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/Trapslang">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 <!-- Add or replace these links with your own profiles. -->
